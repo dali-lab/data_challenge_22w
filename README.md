@@ -10,4 +10,6 @@ Describe the WIID dataset given with four visualizations and four short paragrap
 ## Part 2)
 Part 2 is more free-form, and allows you to showcase YOUR specific skillset.
 
-Drawing from a dataset YOU have chosen, analyse it quantitatively and 
+Drawing from a dataset YOU have chosen (preferred but not required) or the WIID dataset, describe it quantitatively and train a model on it, reporting its predictive accuracy. 
+
+For example, you could, given a country's population, GDP, and previous scores, predict its GINI index. IMPT: Explain outliers to your model, explain its assumptions, explain the metrics used. We want to know hwo you think about data modelling and what goes into your decision-making process.
