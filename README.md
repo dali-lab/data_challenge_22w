@@ -1,7 +1,7 @@
 # DALI Data Challenge
 
 ## Part 1 
-Describe the WIID dataset given with four visualizations and four short paragraphs. Interpret this as you will, but you should explain the choices of graph you made. Think of it as having to explain thed ataset to someone who can't see the Excel sheet. How would you go about it, what insights would you mention, what do you leave out.
+Describe the WIID dataset given with four visualizations and four short paragraphs. Interpret this as you will, but you should explain the choices of graph you made. Think of it as having to explain the dataset to someone who can't see the Excel sheet. How would you go about it, what insights would you mention, what do you leave out. Use whatever tools you're comfortable with
 
 
 ## Part 2
@@ -13,3 +13,5 @@ For example, you could, given a country's population, GDP, and previous scores, 
 
 
 Have fun!!!
+
+Email osman.khan@dali.dartmouth.edu with questions!
