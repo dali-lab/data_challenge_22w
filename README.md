@@ -1,8 +1,13 @@
-# data_challenge_22w
+# DALI Data Challenge
 
-The DALI data challenge is simple. Either using your own dataset (make sure to make it super clear where you got that dataset from originally and any edits you made to it), or using the wiid.csv dataset provided, do something interesting with it. It could be ML, interactive data visualization in React and D3, a tidyverse animated plot, or anything else you can possibly think of.
-
-As long as you can explain what made you want to make what you made and what principles you followed in making decisions on it (whether that be choosing thresholds in ML or a design philosophy in your data visualization), go ahead and do it!
+## Overview
 
 
-The WIID dataset is a 
+## Part 1 
+Describe the WIID dataset given with four visualizations and four short paragraphs. Interpret this as you will, but you should explain the choices of graph you made. Think of it as having to explain thed ataset to someone who could not see the Excel sheet, how would you go about it, what insights would you mention.
+
+
+## Part 2)
+Part 2 is more free-form, and allows you to showcase YOUR specific skillset.
+
+Drawing from a dataset YOU have chosen, analyse it quantitatively and 
